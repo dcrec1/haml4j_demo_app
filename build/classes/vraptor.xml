@@ -1,0 +1,5 @@
+<vraptor>
+	<regex-view-manager>
+		/views/$component/$logic.$result.haml
+	</regex-view-manager>
+</vraptor>
