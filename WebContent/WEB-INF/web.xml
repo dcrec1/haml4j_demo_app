@@ -25,6 +25,7 @@
 		<servlet-class>
 			com.mouseoverstudio.haml4j.Haml4jServlet
 		</servlet-class>
+		<load-on-startup>2</load-on-startup>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>haml4j</servlet-name>
